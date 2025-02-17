@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #9DC08B;
+}
+
+.links{
+    border-radius: 25px;
+    background: #F8F5E9;
+    padding: 10px;
+    max-width: auto;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: none;
+    color: #3A7D44;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+a{
+    color: #3A7D44;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s;
+    padding-right: 10px;
+}
+
+a:hover {
+  color: #DF6D14;
+}
